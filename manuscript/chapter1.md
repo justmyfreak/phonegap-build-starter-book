@@ -1,0 +1,17 @@
+# So, what is PhoneGap Build?
+
+PhoneGap Build is a cloud service that allow developers to compile HTML5 application into native mobile application. It compile not only for Android and iOS, but also for WebOS, Windows Mobile, Symbian, and Bada. It designed to make mobile application development faster and easier by using existing technology,  HTML5. It works like magic. We don’t have to know how application compilation done in server. All we have to do is just uploading assets file and we will get market-ready application in different platforms.
+
+PhoneGap Build let us develop for several platforms without even setting up SDK. We don’t need to setup ADT and Eclipse for developing Android application, or even download and setup Xcode for developing iOS application. It take care the work in the cloud, we don’t need to worry about setting up and maintaining native SDKs. It build applications using latest SDK for targeted platforms. We don’t have to manually install and set up new version of SDKs.
+
+PhoneGap Build makes HTML5 application really shine. HTML5 has good cross compatibility across mobile platforms already. And Phonegap Build leverage its capabilities in to the next level by making it native applications that can be installed on real devices. It can be done even without any changes to support multiple platforms using single code base. 
+
+PhoneGap Build makes mobile application development cost-effective. Reducing cost for each different platform that want to be supported. Developers can also rapidly prototype app using existing tools to develop web application.They don’t need to learn another programming language, juts use existing skill from web development.
+
+PhoneGap Build support 'classic upload' and Git (GitHub) for deploying application. Classic upload can be done by uploading web assets in `*.zip` file. While Git deployment provide us the power of version control, especially using GitHub service. Developers can commit changes to GitHub repositories then pull it from PhoneGap Build to be compiled. This deployment method will significantly increase the speed of application development. One of GitHub power’s that can be used is collaboration development. This is great if developers are working on team.
+
+PhoneGap Build gives extra capabilities on application by using plugins. Plugins are used to extend native functionality exposed by the PhoneGap native-app container. They are including child browser, generic push (push notification), barcode scanner, analytics, and FacebookConnect. Developers can include original PhoneGap’s plugin to use with Phonegap Build and extend native capabilities of application.
+
+PhoneGap Build allow developers to configure application through single file named `config.xml`. It expand options that can be set up to build application using PhoneGap Build. They are including describing application, configuring device orientation, setting up specific icon to match targeted platform, configuring splash screen, and many more will be described in next section.
+
+Currently, PhoneGap Build offer two different plans, free and paid. Both plan are open source friendly. Which mean we have no limitation to create open source application and how many collaborators are collaborating in the project. The only difference is just how many private application you can build. Free plan allow developers to create only one private application, while paid plan allow 25 applications to be created in private.

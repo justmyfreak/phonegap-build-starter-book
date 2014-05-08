@@ -1,0 +1,2 @@
+C:\SDK_PATH\bin\sigtool.csk
+C:\SDK_PATH\bin\sigtool.db
