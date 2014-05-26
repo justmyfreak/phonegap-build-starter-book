@@ -1,0 +1,1 @@
+# This is main repository of [PhoneGap Build Starter](https://leanpub.com/phonegapbuild) Book's manuscript.
